@@ -1,1 +1,1 @@
-# ds-salary_predictor
+ # Data science job salary prediction using data science
